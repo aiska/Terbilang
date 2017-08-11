@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
+    <projectUrl>https://github.com/aiska/Terbilang</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# Extention Terbilang untuk menyebutkan angka dalam bahasa indonesia.</description>
+    <releaseNotes>initial release</releaseNotes>
+    <copyright>Copyright © Aiska Hendra 2017</copyright>
+    <tags>C# Terbilang</tags>
+  </metadata>
+</package>
