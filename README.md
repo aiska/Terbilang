@@ -2,12 +2,14 @@
 C# Extention fungsi terbilang dalam bahasa indonesia
 
 # Install
-PM> Install-Package Aiska.Tools.Terbilang
+install with [Nuget](https://www.nuget.org/packages/Aiska.Tools.Terbilang/) 
+> **Install-Package Aiska.Tools.Terbilang**
 
 # How to use
+```C#
 decimal value = 10000;
 string terbilang = value.Terbilang();
-
+```
 # Licence
 The MIT License (MIT)
 
